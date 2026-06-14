@@ -1,0 +1,20 @@
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\bin\Debug\net8.0-windows\Proyecto TO-DO.exe
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\bin\Debug\net8.0-windows\Proyecto TO-DO.deps.json
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\bin\Debug\net8.0-windows\Proyecto TO-DO.runtimeconfig.json
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\bin\Debug\net8.0-windows\Proyecto TO-DO.dll
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\bin\Debug\net8.0-windows\Proyecto TO-DO.pdb
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO_MarkupCompile.cache
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO_MarkupCompile.lref
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.g.resources
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.AssemblyInfoInputs.cache
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.AssemblyInfo.cs
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.csproj.CoreCompileInputs.cache
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.dll
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\refint\Proyecto TO-DO.dll
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.pdb
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\Proyecto TO-DO.genruntimeconfig.cache
+C:\Users\sjcastellano\Desktop\Copia Segundo Año\Segundo año\Diseño de interfaces\Proyecto TO-DO\Proyecto TO-DO\obj\Debug\net8.0-windows\ref\Proyecto TO-DO.dll
